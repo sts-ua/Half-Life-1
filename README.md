@@ -1,5 +1,5 @@
 # Half-Life-1
 Mod with complete Ukrainian localization
 
-## Встановлення
-Помістіть файли моду в каталог  <Шлях до Steam>\steamapps\common\Half-Life 2\hl1\custom
+## Р’СЃС‚Р°РЅРѕРІР»РµРЅРЅСЏ
+РџРѕРјС–СЃС‚С–С‚СЊ С„Р°Р№Р»Рё РјРѕРґСѓ РІ РєР°С‚Р°Р»РѕРі  <РЁР»СЏС… РґРѕ Рє>\steamapps\common\Half-Life 2\hl1\custom
