@@ -1,0 +1,92 @@
+//-----------------------------------------------------------------------------
+// NIHILANTH
+//-----------------------------------------------------------------------------
+
+"NPC_Nihilanth.NIL_ALONE"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_alone.wav"
+}
+
+"NPC_Nihilanth.NIL_COMES"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_comes.wav"
+}
+
+"NPC_Nihilanth.NIL_DECEIVE"
+{	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_deceive.wav"
+}
+
+"NPC_Nihilanth.NIL_DIE"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_die.wav"
+}
+
+"NPC_Nihilanth.NIL_DONE"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_done.wav"
+}
+
+"NPC_Nihilanth.NIL_FREEMAN"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_freeman.wav"
+}
+
+"NPC_Nihilanth.NIL_NOW_DIE"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_now_die.wav"
+}
+
+"NPC_Nihilanth.NIL_THELAST"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_thelast.wav"
+}
+
+"NPC_Nihilanth.NIL_THETRUTH"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_thetruth.wav"
+}
+
+"NPC_Nihilanth.NIL_WIN"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"0"
+	"wave"		"nihilanth/nil_win.wav"
+}
