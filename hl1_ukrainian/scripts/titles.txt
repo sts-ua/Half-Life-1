@@ -50,152 +50,152 @@ $holdtime 1.2
 
 CR1
 {
-Ted Backman
+Тед Бекмен
 }
 
 CR2
 {
-TK Backman
+ТК Бекмен
 }
 
 CR3
 {
-Kelly Bailey
+Келлі Бейлі
 }
 
 CR4
 {
-Yahn Bernier
+Ян Берньє
 }
 
 CR5
 {
-Ken Birdwell
+Кен Бердвелл
 }
 
 CR6
 {
-Steve Bond
+Стів Бонд
 }
 
 CR7
 {
-Dario Casali
+Даріо Касалі
 }
 
 CR8
 {
-John Cook
+Джон Кук
 }
 
 CR9
 {
-Greg Coomer
+Ґреґ Кумер
 }
 
 CR10
 {
-Wes Cumberland
+Вес Камберленд
 }
 
 CR11
 {
-John Guthrie
+Джон Ґатрі
 }
 
 CR12
 {
-Mona Lisa Guthrie
+Мона-Ліза Ґатрі
 }
 
 CR13
 {
-Mike Harrington
+Майк Гаррінґтон
 }
 
 CR14
 {
-Monica Harrington
+Моніка Гаррінґтон
 }
 
 CR15
 {
-Brett Johnson
+Брет Джонсон
 }
 
 CR16
 {
-Chuck Jones
+Чак Джонс
 }
 
 CR17
 {
-Marc Laidlaw
+Марк Лейдлов
 }
 
 CR18
 {
-Karen Laur
+Карен Лаур
 }
 
 CR19
 {
-Randy Lundeen
+Ренді Ландін
 }
 
 CR20
 {
-Yatsze Mark
+Ятш Марк
 }
 
 CR21
 {
-Lisa Mennet
+Ліза Меннет
 }
 
 CR22
 {
-Gabe Newell
+Ґейб Ньюел
 }
 
 CR23
 {
-Dave Riller
+Дейв Ріллер
 }
 
 CR24
 {
-Aaron Stackpole
+Аарон Стекпол
 }
 
 CR25
 {
-Jay Stelly
+Джей Стеллі
 }
 
 CR26
 {
-Harry Teasley 
+Гаррі Тізлі
 }
 
 CR35
 {
-Steve Theodore
+Стів Теодор
 }
 
 CR36
 {
-Bill Van Buren
+Білл ван Бюрен
 }
 
 CR37
 {
-Robin Walker
+Робін Вокер
 }
 
 CR38
 {
-Douglas R. Wood
+Дуґлас Р. Вуд
 }
 
 //END CREDITS
@@ -217,126 +217,126 @@ VALVEIS
 
 END1
 {
-Viktor Antonov
-Ted Backman
-Kelly Bailey
-Jeff Ballinger
-Matt Bamberger
-Aaron Barber
-Yahn Bernier
-Ken Birdwell
-Derrick Birum
+Віктор Антонов (Viktor Antonov)
+Тед Бекмен (Ted Backman)
+Келлі Бейлі (Kelly Bailey)
+Джеф Баллінґер (Jeff Ballinger)
+Метт Бамберґер (Matt Bamberger)
+Аарон Барбер (Aaron Barber)
+Ян Берньє (Yahn Bernier)
+Кен Бердвелл (Ken Birdwell)
+Деррік Бірум (Derrick Birum)
 }
 
 END2
 {
-Chris Bokitch
-Steve Bond
-Matt Boone
-Charlie Brown
-Julie Caldwell
-Dario Casali
-Yvan Charpentier
-Jess Cliffe
-John Cook
+Кріс Бокіч (Chris Bokitch)
+Стів Бонд (Steve Bond)
+Мет Бун (Matt Boone)
+Чарлі Браун (Charlie Brown)
+Джулі Колдвелл (Julie Caldwell)
+Даріо Касалі (Dario Casali)
+Іван Карпентьє (Yvan Charpentier)
+Джесс Кліф (Jess Cliffe)
+Джон Кук (John Cook)
 }
 
 END3
 {
-Greg Coomer
-Kellie Cosner
-Scott Dalton
-Kerry Davis
-Jason Deakins
-Ariel Diaz
-Quintin Doroquez
-Martha Draves
-Laura Dubuk
+Ґреґ Кумер (Greg Coomer)
+Келлі Коснер (Kellie Cosner)
+Скотт Далтон (Scott Dalton)
+Керрі Девіс (Kerry Davis)
+Джйесон Дікінс (Jason Deakins)
+Аріел Діаз (Ariel Diaz)
+Квентін Дорокез (Quintin Doroquez)
+Марта Дрейвс (Martha Draves)
+Лора Дюбук (Laura Dubuk)
 }
 
 END4
 {
-Mike Dunkle
-Mike Dussault
-Rick Ellis
-Dhabih Eng
-Miles Estes
-Adrian Finol
-Bill Fletcher
-Moby Francke
-Pat Goodwin
+Майк Данкл (Mike Dunkle)
+Майк Дюссо (Mike Dussault)
+Рік Елліс (Rick Ellis)
+Дхабіг Енґ (Dhabih Eng)
+Майлз Естес (Miles Estes)
+Адріан Фінол (Adrian Finol)
+Білл Флетчер (Bill Fletcher)
+Мобі Франке (Moby Francke)
+Пет Ґудвін (Pat Goodwin)
 }
 
 END5
 {
-Chris Green
-Chris Grinstead
-John Guthrie
-Leslie Hall
-Damarcus Holbrook
-Tim Holt
-Brian Jacobson
-Erik Johnson
+Кріс Ґрін (Chris Green)
+Кріс Ґрінстед (Chris Grinstead)
+Джон Ґатрі (John Guthrie)
+Леслі Голл (Leslie Hall)
+Дамаркус Голбрук (Damarcus Holbrook)
+Тім Голт (Tim Holt)
+Браян Джейкобсон (Brian Jacobson)
+Ерік Джонсон (Erik Johnson)
 }
 
 END6
 {
-Jakob Jungels
-Iikka Keranen
-Eric Kirchmer
-Marc Laidlaw
-Jeff Lane
-Tom Leonard
-Doug Lombardi
-Randy Lundeen
+Джейкоб Джанґелз (Jakob Jungels)
+Ікка Керанен (Iikka Keranen)
+Ерік Кірчмер (Eric Kirchmer)
+Марк Лейдлов (Marc Laidlaw)
+Джефф Лейн (Jeff Lane)
+Том Леонард (Tom Leonard)
+Даґ Ломбарді (Doug Lombardi)
+Ренді Ландін (Randy Lundeen)
 }
 
 END7
 {
-Scott Lynch
-Ido Magal
-Gary McTaggart
-John Morello II
-Bryn Moslow
-Gabe Newell
-Tri Nguyen
-Jake Nicholson
+Скотт Лінч (Scott Lynch)
+Ідо Маґал (Ido Magal)
+Ґері МакТаґерт (Gary McTaggart)
+Джон Морелло (John Morello II)
+Брін Мослов (Bryn Moslow)
+Ґейб Ньюел (Gabe Newell)
+Трі Нґуєн (Tri Nguyen)
+Джейк Ніколсон (Jake Nicholson)
 }
 
 END8
 {
-Martin Otten
-Kristen Perry
-Bay Raitt
-Alfred Reynolds
-Dave Riller
-Danika Rogers
-David Sawyer
-Aaron Seeler
+Мартін Оттен (Martin Otten)
+Крістен Перрі (Kristen Perry)
+Бей Рейтт (Bay Raitt)
+Альфред Рейнолдс (Alfred Reynolds)
+Дейв Ріллер (Dave Riller)
+Даніка Роджерс (Danika Rogers)
+Девід Соєр (David Sawyer)
+Аарон Сілер (Aaron Seeler)
 }
 
 END9
 {
-Nick Shaffner
-Taylor Sherman
-Eric Smith
-David Speyrer
-Jay Stelly
-Jeremy Stone
-Mikel Thompson
-Kelly Thornton
+Нік Шефнер (Nick Shaffner)
+Тейлор Шерман (Taylor Sherman)
+Ерік Сміт (Eric Smith)
+Девід Спейрер (David Speyrer)
+Джей Стеллі (Jay Stelly)
+Джеремі Стоун (Jeremy Stone)
+Мікел Томпсон (Mikel Thompson)
+Келлі Торнтон (Kelly Thornton)
 }
 
 END10
 {
-Carl Uhlman
-Bill Van Buren
-KayLee Vogt
-Robin Walker
-Josh Weier
-Doug Wood
-Matt T Wood
-Matt Wright
+Карл Ульман (Carl Uhlman)
+Білл ван Бюрен (Bill Van Buren)
+Кей-Лі Воґт (KayLee Vogt)
+Робін Вокер (Robin Walker)
+Джош Веєр (Josh Weier)
+Даґ Вуд (Doug Wood)
+Мет Т. Вуд (Matt T Wood)
+Мет Райт (Matt Wright)
 }
 
 
