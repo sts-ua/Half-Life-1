@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HLSourceUkr")]
-[assembly: AssemblyDescription("Українізатор HL:Source")]
+[assembly: AssemblyDescription("Українізатор Half-Life: Source від STS UA")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("STS")]
 [assembly: AssemblyProduct("HLSourceUkr")]

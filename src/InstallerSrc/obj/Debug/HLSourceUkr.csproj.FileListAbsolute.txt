@@ -1,0 +1,12 @@
+D:\Projects\Half-Life-1\src\InstallerSrc\bin\Debug\HLSourceUkr.exe.config
+D:\Projects\Half-Life-1\src\InstallerSrc\bin\Debug\HLSourceUkr.exe
+D:\Projects\Half-Life-1\src\InstallerSrc\bin\Debug\HLSourceUkr.pdb
+D:\Projects\Half-Life-1\src\InstallerSrc\bin\Debug\uk-UA\HLSourceUkr.resources.dll
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.csprojResolveAssemblyReference.cache
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.fMain.resources
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.fMain.uk-UA.resources
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.csproj.GenerateResource.Cache
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.csproj.CoreCompileInputs.cache
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\uk-UA\HLSourceUkr.resources.dll
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.exe
+D:\Projects\Half-Life-1\src\InstallerSrc\obj\Debug\HLSourceUkr.pdb

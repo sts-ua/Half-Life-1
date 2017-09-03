@@ -183,13 +183,13 @@
     <value>13, 13</value>
   </data>
   <data name="lbHeader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>459, 16</value>
+    <value>498, 16</value>
   </data>
   <data name="lbHeader.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="lbHeader.Text" xml:space="preserve">
-    <value>Українізатор HL1:Source від укаїнської спільноти перекладачів Steam</value>
+    <value>Українізатор Half-Life: Source від української спільноти перекладачів Steam.</value>
   </data>
   <data name="&gt;&gt;lbHeader.Name" xml:space="preserve">
     <value>lbHeader</value>
@@ -324,7 +324,7 @@
     <value>720, 190</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Українізатор HL:Source ‒ STS </value>
+    <value>Українізатор Half-Life: Source від STS UA</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>fMain</value>
